@@ -1,4 +1,3 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3ejrmfx7ex6nv7j"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24h 101 Dálmatas" tvg-logo="http://the-img.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | 24 HORAS" tvg-shift="-24",24h 101 Dálmatas
 http://dns.akamaihost.xyz:80/live/play/Bxdd2XxYz-MsexWIg5U_u1Ko7O8tFal8OW7s5kVgP54/m3u8.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24h 3 Palavrinhas" tvg-logo="http://the-img.xyz/images/1ff1de774005f8da13f42943881c655f.png" group-title="CANAIS | 24 HORAS" tvg-shift="-24",24h 3 Palavrinhas
